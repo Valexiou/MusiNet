@@ -1,0 +1,16 @@
+	 My_SIP RESPONSE msg:	 scode = 401
+	 My_SIP RESPONSE msg:	 scode = 200
+	 My_SIP REQUEST msg:	 NOTIFY
+	 My_SIP RESPONSE msg:	 scode = 100
+	 My_SIP RESPONSE msg:	 scode = 407
+	 My_SIP RESPONSE msg:	 scode = 100
+	 My_SIP RESPONSE msg:	 scode = 200
+	 My_SIP REQUEST msg:	 INFO
+There is no user yet! 
+VRX address : 0x7faa82f55ff8
+	 My_SIP REQUEST msg:	 INFO
+	 My_SIP RESPONSE msg:	 scode = 200
+
+All resources were cleaned successfully !!!
+
+	 My_SIP RESPONSE msg:	 scode = 200
